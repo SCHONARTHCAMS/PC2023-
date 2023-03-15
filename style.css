@@ -11,7 +11,7 @@ top: 183px;
 font-family: 'Almendra SC';
 font-style: normal;
 font-weight: 400;
-font-size: 96px;
+font-size: 85px;
 line-height: 130%;
 /* or 125px */
 
@@ -20,18 +20,7 @@ color: #31D1DB;
 
 
 }
-img{
-  /* Group 2 */
 
-
-position: absolute;
-width: 354px;
-height: 458px;
-left: 130px;
-top: 670px;
-
-opacity: 0.78;
-}
 p{
   position: absolute;
 width: 842px;
@@ -42,11 +31,32 @@ top: 670px;
 font-family: 'Alata';
 font-style: normal;
 font-weight: 400;
-font-size: 40px;
+font-size: 35px;
 line-height: 130%;
 /* or 52px */
 
 
 color: #000000;
+
+}
+
+img {
+  /* Rectangle 5 */
+
+
+position: absolute;
+width: 354px;
+height: 458px;
+left: 130px;
+top: 670px;
+
+background: #00008B;
+
+position: absolute;
+width: 320px;
+height: 416px;
+left: 147px;
+top: 691px;
+
 
 }
