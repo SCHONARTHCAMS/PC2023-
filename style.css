@@ -2,21 +2,51 @@ h1{
   /* camila schonarth */
 
 
+position: absolute;
+width: 757px;
+height: 353px;
+left: 341px;
+top: 183px;
+
+font-family: 'Almendra SC';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 130%;
+/* or 125px */
+
+
+color: #31D1DB;
+
+
+}
+img{
+  /* Group 2 */
+
+
+position: absolute;
+width: 354px;
+height: 458px;
+left: 130px;
+top: 670px;
+
+opacity: 0.78;
+}
+p{
   position: absolute;
-  width: 757px;
-  height: 353px;
-  left: 341px;
-  top: 183px;
+width: 842px;
+height: 548px;
+left: 501px;
+top: 670px;
 
-  font-family: 'Almendra SC';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 96px;
-  line-height: 130%;
-  /* or 125px */
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 130%;
+/* or 52px */
 
 
-  color: #31D1DB;
-
+color: #000000;
 
 }
