@@ -1,8 +1,5 @@
 h1{
-  /* camila schonarth */
-
-
-position: absolute;
+  position: absolute;
 width: 757px;
 height: 353px;
 left: 341px;
@@ -11,52 +8,81 @@ top: 183px;
 font-family: 'Almendra SC';
 font-style: normal;
 font-weight: 400;
-font-size: 85px;
+font-size: 64px;
 line-height: 130%;
-/* or 125px */
+/* or 83px */
 
 
 color: #31D1DB;
 
 
 }
+.borda{
+  position: absolute;
+width: 1440px;
+height: 80px;
+left: 0px;
+top: 0px;
+
+background: #36598C;
+}
 
 p{
   position: absolute;
-width: 842px;
-height: 548px;
-left: 501px;
-top: 670px;
+  width: 842px;
+  height: 548px;
+  left: 495px;
+  top: 651px;
 
-font-family: 'Alata';
-font-style: normal;
-font-weight: 400;
-font-size: 35px;
-line-height: 130%;
-/* or 52px */
+  font-family: 'Alata';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 130%;
+  /* or 52px */
 
 
-color: #000000;
+  color: #000000;
 
 }
-
-img {
-  /* Rectangle 5 */
-
-
-position: absolute;
+img{
+  position: absolute;
 width: 354px;
 height: 458px;
-left: 130px;
-top: 670px;
+left: 110px;
+top: 710px;
 
 background: #00008B;
-
-position: absolute;
-width: 320px;
-height: 416px;
-left: 147px;
-top: 691px;
+}
 
 
+
+.borda2 {
+  position: absolute;
+width: 80px;
+height: 1888px;
+left: 0px;
+top: 80px;
+
+background: #36598C;
+}
+
+.borda3{
+  position: absolute;
+  width: 1440px;
+  height: 80px;
+  left: 0px;
+  top: 1968px;
+
+  background: #36598C;
+}
+
+.borda4{
+  position: absolute;
+width: 80px;
+height: 1888px;
+left: 1360px;
+top: 80px;
+
+background: #36598C;
 }
