@@ -44,6 +44,8 @@ p{
 
   color: #000000;
 
+
+
 }
 img{
   position: absolute;
@@ -85,4 +87,49 @@ left: 1360px;
 top: 80px;
 
 background: #36598C;
+}
+
+.circulo1{
+
+
+  position: absolute;
+  width: 47px;
+  height: 49px;
+  left: 222px;
+  top: 231px;
+
+  background: #36598C;
+
+}
+
+.circulo2{
+  position: absolute;
+width: 47px;
+height: 49px;
+left: 1162px;
+top: 230.06px;
+
+background: #36598C;
+}
+
+.linha1{
+  position: absolute;
+width: 871px;
+height: 0px;
+left: 284px;
+top: 320.06px;
+
+border: 1px solid #00008B;
+transform: rotate(-0.13deg);
+}
+
+.linha2{
+  position: absolute;
+width: 871px;
+height: 0px;
+left: 284px;
+top: 195.06px;
+
+border: 1px solid #00008B;
+transform: rotate(0deg);
 }
