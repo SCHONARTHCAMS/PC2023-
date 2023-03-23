@@ -1,135 +1,20 @@
-h1{
-  position: absolute;
-width: 757px;
-height: 353px;
-left: 341px;
-top: 183px;
-
-font-family: 'Almendra SC';
-font-style: normal;
-font-weight: 400;
-font-size: 64px;
-line-height: 130%;
-/* or 83px */
-
-
-color: #31D1DB;
-
-
-}
-.borda{
-  position: absolute;
-width: 1440px;
-height: 80px;
-left: 0px;
-top: 0px;
-
-background: #36598C;
-}
-
-p{
-  position: absolute;
-  width: 842px;
-  height: 548px;
-  left: 495px;
-  top: 651px;
-
-  font-family: 'Alata';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 40px;
-  line-height: 130%;
-  /* or 52px */
-
-
-  color: #000000;
-
-
-
-}
 img{
   position: absolute;
-width: 354px;
-height: 458px;
-left: 110px;
-top: 710px;
+width: 263px;
+height: 255px;
+left: 146px;
+top: 96px;
 
-background: #00008B;
+background: url(gato.jpg);
+border-radius: 176.5px;
 }
+.menu{
+position: absolute;
+height: 61px;
+left: 636px;
+top: 193px;
+font-size: 54px;
+line-height: 64.8px;
+color: #BC8D85;
 
-
-
-.borda2 {
-  position: absolute;
-width: 80px;
-height: 1888px;
-left: 0px;
-top: 80px;
-
-background: #36598C;
-}
-
-.borda3{
-  position: absolute;
-  width: 1440px;
-  height: 80px;
-  left: 0px;
-  top: 1968px;
-
-  background: #36598C;
-}
-
-.borda4{
-  position: absolute;
-width: 80px;
-height: 1888px;
-left: 1360px;
-top: 80px;
-
-background: #36598C;
-}
-
-.circulo1{
-
-
-  position: absolute;
-  width: 47px;
-  height: 49px;
-  left: 222px;
-  top: 231px;
-
-  background: #36598C;
-
-}
-
-.circulo2{
-  position: absolute;
-width: 47px;
-height: 49px;
-left: 1162px;
-top: 230.06px;
-
-background: #36598C;
-}
-
-.linha1{
-  position: absolute;
-width: 871px;
-height: 0px;
-left: 284px;
-top: 320.06px;
-
-border: 1px solid #00008B;
-transform: rotate(-0.13deg);
-}
-
-.linha2{
-  position: absolute;
-width: 871px;
-height: 0px;
-left: 284px;
-top: 195.06px;
-
-border: 1px solid #00008B;
-transform: rotate(0deg);
 }
