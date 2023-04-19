@@ -119,18 +119,120 @@ h4{
   position: absolute;
   width: 991px;
   height: 118px;
-  left: 284px;
-  top: 1799px;
+  left: 340px;
+  top: 1819px;
 
   font-family: 'Alegreya SC';
   font-style: normal;
   font-weight: 400;
-  font-size: 40px;
+  font-size: 48px;
   line-height: 130%;
-  /* or 52px */
+  /* or 62px */
 
 
   color: #000000;
 
+
+}
+
+h2{
+  /* Escola */
+
+
+  position: absolute;
+  width: 206px;
+  height: 35px;
+  left: 153px;
+  top: 126px;
+
+  font-family: 'Alegreya SC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 130%;
+  /* or 62px */
+
+
+  color: #000000;
+}
+
+h3{
+  /* Vida pessoal */
+
+
+position: absolute;
+width: 272px;
+height: 62px;
+left: 539px;
+top: 130px;
+
+font-family: 'Alegreya SC';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+
+
+color: #000000;
+}
+
+h5{
+  /* Coisas que gosto */
+
+
+  position: absolute;
+  width: 369px;
+  height: 62px;
+  left: 977px;
+  top: 99px;
+
+  font-family: 'Alegreya SC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 130%;
+  /* or 62px */
+
+
+  color: #000000;
+}
+
+h6{
+  position: absolute;
+  width: 167px;
+  height: 26px;
+  left: 644px;
+  top: 1911px;
+
+  font-family: 'Alegreya SC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 130%;
+  /* identical to box height, or 26px */
+
+
+  color: #000000;
+
+}
+
+footer{
+
+  position: absolute;
+  width: 991px;
+  height: 118px;
+  left: 340px;
+  top: 1819px;
+
+  font-family: 'Alegreya SC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 130%;
+  /* or 62px */
+
+
+  color: #000000;
 
 }
