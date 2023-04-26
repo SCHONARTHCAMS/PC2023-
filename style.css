@@ -1,8 +1,9 @@
 img{
   position: absolute;
-  width: 316px;
-  height: 334px;
+width: 316px;
+height: 334px;
 
+background: url(IMG_20221224_192706_606.jpg);
 
 }
 
@@ -234,5 +235,7 @@ footer{
 
 
   color: #000000;
+
+  background-color: #87CEFA
 
 }
