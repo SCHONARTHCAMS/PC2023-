@@ -1,9 +1,37 @@
+p{
+  position: absolute;
+width: 966px;
+height: 425px;
+left: 250px;
+top: 920px;
+
+font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 130%;
+/* or 52px */
+
+
+color: #000000;
+
+    background-color: #ADD8E6
+
+
+  }
+
+}
+
+
 img{
   position: absolute;
-width: 316px;
-height: 334px;
+  width: 316px;
+  height: 334px;
+  left: 162px;
+  top: 399px;
 
-background: url(IMG_20221224_192706_606.jpg);
+
+
 
 }
 
@@ -59,44 +87,27 @@ top: 1968px;
 background: #36598C;
 }
 
-p{
-  position: absolute;
-width: 842px;
-height: 535px;
-left: 320px;
-top: 865px;
 
-font-family: 'Alata';
-font-style: normal;
-font-weight: 400;
-font-size: 40px;
-line-height: 130%;
-/* or 52px */
-
-
-color: #000000;
-
-}
 
 h1{
-  /* camila schonarth */
-
 
   position: absolute;
-  width: 757px;
-  height: 353px;
+  width: 503px;
+  height: 80px;
   left: 555px;
   top: 470px;
 
   font-family: 'Almendra SC';
   font-style: normal;
   font-weight: 400;
-  font-size: 64px;
+  font-size: 48px;
   line-height: 130%;
-  /* or 83px */
+  /* or 62px */
 
 
   color: #283291;
+
+  background-color: #87CEEB
 
 }
 
@@ -221,21 +232,22 @@ h6{
 footer{
 
   position: absolute;
-  width: 991px;
-  height: 118px;
-  left: 340px;
-  top: 1819px;
+width: 1011px;
+height: 209px;
+left: 227px;
+top: 1759px;
 
-  font-family: 'Alegreya SC';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 48px;
-  line-height: 130%;
-  /* or 62px */
+font-family: 'Alegreya SC';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
 
 
-  color: #000000;
+color: #000000;
 
-  background-color: #87CEFA
+background-color: #ADD8E6
+
 
 }
