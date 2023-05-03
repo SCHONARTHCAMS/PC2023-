@@ -20,20 +20,10 @@ p{
 
   }
 
-}
-
-
-img{
-  position: absolute;
-  width: 316px;
-  height: 334px;
-  left: 162px;
-  top: 399px;
 
 
 
 
-}
 
 .borda4{
   /* Rectangle 4 */
@@ -89,6 +79,7 @@ background: #36598C;
 
 
 
+
 h1{
 
   position: absolute;
@@ -107,22 +98,10 @@ h1{
 
   color: #283291;
 
-  background-color: #87CEEB
+
 
 }
 
-.retângulo{
-  /* Rectangle 5 */
-
-
-  position: absolute;
-  width: 373px;
-  height: 390px;
-  left: 134px;
-  top: 321px;
-
-  background: #113873;
-}
 
 
 
@@ -166,7 +145,7 @@ h2{
 
 
   color: #000000;
-  background-color: #87CEEB
+background-color: 	#87CEEB
 }
 
 h3{
@@ -229,8 +208,15 @@ h6{
 
 
   color: #000000;
+position: absolute;
+width: 316px;
+height: 334px;
+left: 162px;
+top: 346px;
+
 
 }
+
 
 footer{
 
@@ -253,4 +239,13 @@ color: #000000;
 background-color: #ADD8E6
 
 
+}
+
+img{
+
+  position: absolute;
+  width: 384px;
+  height: 401px;
+  left: 112px;
+  top: 346px;
 }
